@@ -26,7 +26,7 @@ Una API REST completa para una plataforma de recetas culinarias donde los usuari
 
 ## 📁 Estructura del Proyecto
 
-\`\`\`
+```
 culinary-recipes-api/
 ├── db/
 │   ├── connection.js        # Conexión a MongoDB
@@ -52,7 +52,7 @@ culinary-recipes-api/
 ├── app.js                  # Servidor principal
 ├── package.json            # Dependencias y scripts
 └── README.md              # Documentación
-\`\`\`
+```
 
 ## 📦 Instalación
 
